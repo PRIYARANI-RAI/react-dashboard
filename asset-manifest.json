@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-dashboard/static/css/main.7bbd7c6c.css",
+    "main.js": "/react-dashboard/static/js/main.37e6106c.js",
+    "static/js/453.55d6dd92.chunk.js": "/react-dashboard/static/js/453.55d6dd92.chunk.js",
+    "static/media/revenue.png": "/react-dashboard/static/media/revenue.367969a9aca9729be7bd.png",
+    "static/media/burger.png": "/react-dashboard/static/media/burger.5a272b144030d7d76ee4.png",
+    "static/media/orders.png": "/react-dashboard/static/media/orders.1cbfdfcb74f317a1af80.png",
+    "static/media/target.png": "/react-dashboard/static/media/target.a3826eab1b4ffaccaa41.png",
+    "static/media/cancelOrder.png": "/react-dashboard/static/media/cancelOrder.aa0f1332c60a0264ea38.png",
+    "static/media/menu.png": "/react-dashboard/static/media/menu.27a8d17ec40b2d8c48b4.png",
+    "static/media/delivered.png": "/react-dashboard/static/media/delivered.fe00c43b50549ea192a9.png",
+    "index.html": "/react-dashboard/index.html",
+    "main.7bbd7c6c.css.map": "/react-dashboard/static/css/main.7bbd7c6c.css.map",
+    "main.37e6106c.js.map": "/react-dashboard/static/js/main.37e6106c.js.map",
+    "453.55d6dd92.chunk.js.map": "/react-dashboard/static/js/453.55d6dd92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bbd7c6c.css",
+    "static/js/main.37e6106c.js"
+  ]
+}
